@@ -1,5 +1,5 @@
 {
-    "name": "leowebx/fuelsdk-php",
+    "name": "rocketbus/fuelsdk-php",
     "description": "SDK to integrate the Exact Target API",
     "license": "MIT",
     "minimum-stability": "stable",
